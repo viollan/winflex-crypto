@@ -1,0 +1,7 @@
+target/
+dist/
+build/
+__pycache__/
+test/1c/src/WFCТестыКомпоненты/Templates/Компонента/Ext/Template.bin
+infostart/
+*.zip

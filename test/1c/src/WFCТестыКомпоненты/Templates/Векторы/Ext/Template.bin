@@ -1,0 +1,14 @@
+{
+  "keys": {
+    "sign_secret": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8=",
+    "sign_public": "A6EHv/POEL4dcN0Y50vAmWfk1jCbpQ1fHdyGZBJVMbg=",
+    "box_secret": "ICEiIyQlJicoKSorLC0uLzAxMjM0NTY3ODk6Ozw9Pj8=",
+    "box_public": "NYBy1jZYgNGu6jKa35EhODhR7SGijjt16WXQ0s0WYlQ="
+  },
+  "fingerprint": "3619-E750-A2DD-52BA-9788",
+  "data_b64": "0J/RgNC+0LLQtdGA0LrQsCDRgdCy0Y/Qt9C4IHdpbkZsZXgg4oCUIDI0LjA5LjIwMjY=",
+  "sha256_b64": "YfM7AyFannorxqbsampAXT0rK/E9YQ0+HUM4KtOhgeQ=",
+  "signature_b64": "Kgx/mliaNFgcNvhd9Ptjmua2aOR5ogKXZL1coZAsZ+FTEQQ8gvHzco2XB2PvYKADjzNDgXWc0S4IGAmzVTRiBA==",
+  "sealed_b64": "ngO+h0v2WHZZO6fhxk3faOGROIvkOJuzcBlg0xFg4UhenSm5sgfh9AK9uMRS+Gl9pcPKpj4q1PYiBzzZXWxYftYXGySI1ne9CcZw/My1KvGrjeYq5rDgd+oPtE82uQ3Kf5k=",
+  "comment": "Эталон — PyNaCl (libsodium): ключи из байт 0..31 и 32..63, подпись Ed25519 и sealed box данных data_b64."
+}
